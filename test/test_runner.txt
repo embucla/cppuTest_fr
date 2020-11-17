@@ -1,0 +1,14 @@
+TEST(dummy_test, NoFormatOperations)
+/cygdrive/c/Users/claud/OneDrive/Desktop/cpputest_start/test/dummy_test.cpp:24: error: Failure in TEST(dummy_test, NoFormatOperations)
+	expected <4>
+	but was  <3>
+	difference starts at position 0 at: <          3         >
+	                                               ^
+
+ - 0 ms
+TEST(dummy_test, fail_me)
+ Cli INIT - 0 ms
+TEST(dummy_test, pass_me) - 0 ms
+
+Errors (1 failures, 3 tests, 3 ran, 3 checks, 0 ignored, 0 filtered out, 1 ms)
+
